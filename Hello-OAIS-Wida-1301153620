@@ -3,4 +3,10 @@ Uses Crt;
 Begin
   Clrscr;
   Writeln('Hello World');//untuk mengeluarkan string 'Hello World' di layar
+  Writeln(‘1301153620); //Ubah untuk menampilkan NIM Anda
+  Writeln(‘Novario’); //Ubah untuk menampilkan Nama Anda
+  Writeln(‘IF-39-INT’); //Ubah untuk menampilkan Kelas Anda
+  Writeln(‘Wida’); //Ubah untuk menampilkan Nama Asprak Anda
+  Writeln(‘1301153679’); //Ubah untuk menampilkan NIM teman anda
+  Writeln(‘Modul 6’); //Ubah untuk menampilkan string ‘Modul 6
 End.
